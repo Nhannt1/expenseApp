@@ -1,4 +1,5 @@
 # newapp
 Expense App
-## Getting Started
-![Image](https://github.com/user-attachments/assets/3bee4695-4baf-47c7-abe9-8b491bb1c66d)
+# demo
+
+![LDPlayer 2025-03-26 20-01-05](https://github.com/user-attachments/assets/9553f33f-05d7-4631-afd0-703a5b04009c)
